@@ -1,0 +1,13 @@
+ToDo Liste Graviator:
+
+- 3D Models & Implementation
+- player-alignment sichtbar machen
+- Mathe Umrechnung von 2d->3d
+- bugfixing
+	- modelle erfolgreich anzeigen
+	- server schickt für wlan zu schnell
+	- objekte verschwinden
+	- energy system timer geht noch nich ganz
+- balancing
+- HUD
+- Sound einbauen
